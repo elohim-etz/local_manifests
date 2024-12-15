@@ -1,0 +1,8 @@
+<manifest>
+  <!-- project path="external/tinyxml" name="platform/external/tinyxml" remote="aosp" revision="refs/tags/android-11.0.0_r46" /-->
+  <project path="device/realme/RM6785" name="elohim-etz/android_device_RM6785" revision="Android-15" />
+  <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-22" />
+  <project path="kernel/realme/mt6785" name="elohim-etz/RUI2-psionic-kernel-tree" revision="Android-15" />
+  <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-22" />
+  <project path="vendor/realme/RM6785-common" name="RisingTechOSS-devices/vendor_realme_RM6785-common" revision="fifteen" />
+</manifest>
